@@ -1,0 +1,2 @@
+# Part 0: Goals and Intentions
+To learn to thing algorithmically and scientifically to be able to solve problems by writing programs (this should ultimately teach you to think this way outside of writing code, as well)
